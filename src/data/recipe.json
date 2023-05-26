@@ -1,0 +1,566 @@
+[
+    {
+      "id": 1,
+      "title": "Jollof Rice",
+      "description": "One of Nigeria's most popular rice dishes cooked in a flavorful tomato-based sauce.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/04/87/14/10/1000_F_487141097_RTZJGb1OBBA2CJhupCS6sMTWp8AMsGGc.jpg",
+      "ingredients": [
+        "2 cups long-grain rice",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, chopped",
+        "1 can (400g) diced tomatoes",
+        "1 teaspoon thyme",
+        "1 teaspoon curry powder",
+        "1 teaspoon paprika",
+        "1/2 teaspoon cayenne pepper",
+        "1/2 teaspoon ground nutmeg",
+        "2 cups chicken or vegetable broth",
+        "1/4 cup vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Heat the vegetable oil in a large pot over medium heat.",
+        "Add the onions, garlic, and bell pepper. Sauté until softened.",
+        "Add the diced tomatoes, thyme, curry powder, paprika, cayenne pepper, and nutmeg. Cook for a few minutes.",
+        "Add the rice and stir to coat it with the tomato mixture.",
+        "Pour in the broth, season with salt and pepper, and stir well.",
+        "Cover the pot and simmer for about 20-25 minutes or until the rice is cooked and the liquid is absorbed.",
+        "Fluff the rice with a fork and serve hot."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Egusi Soup",
+      "description": "A rich and hearty Nigerian soup made with ground melon seeds and various vegetables.",
+      "imageURL": "https://i0.wp.com/soupembassy.com.ng/order/wp-content/uploads/2021/05/egusi-soup-online.jpg?fit=572%2C533&ssl=1" ,
+      "ingredients": [
+        "1 cup ground egusi (melon) seeds",
+        "500g assorted meat (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meat with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and add the ground egusi. Stir for a few minutes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot with the egusi. Stir well.",
+        "Cover the pot and let it simmer for about 10 minutes.",
+        "Add the spinach and pumpkin leaves. Stir and cook for an additional 5 minutes.",
+        "Adjust the seasoning if needed and serve hot with your choice of swallow (e.g., pounded yam, fufu, or eba)."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pounded Yam",
+      "description": "A Nigerian staple made from boiled yam, pounded until smooth and served with various soups.",
+      "imageURL":  "https://www.zikoko.com/wp-content/uploads/zikoko/2020/08/Pounded-Yam-2-1.jpg",
+      "ingredients": [
+        "1 large yam",
+        "Water",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Peel the yam and cut it into small chunks.",
+        "In a pot, add enough water to cover the yam and bring it to a boil.",
+        "Add the yam chunks to the boiling water and cook until tender.",
+        "Drain the water and transfer the cooked yam to a mortar or a large bowl.",
+        "Using a pestle or a pounding stick, pound the yam until smooth and stretchy, adding a little water if needed.",
+        "Continue pounding until the yam reaches a desired consistency.",
+        "Season with salt and serve hot with your preferred Nigerian soup."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Suya",
+      "description": "A popular Nigerian street food made from skewered and grilled meat, coated with a spicy peanut marinade.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/02/21/24/13/1000_F_221241321_PIn6TJUwdqRQjzYfkSPuusn5BdxLHzIX.jpg",
+      "ingredients": [
+        "500g beef or chicken, thinly sliced",
+        "1/4 cup ground roasted peanuts",
+        "2 tablespoons ground paprika",
+        "1 tablespoon ground ginger",
+        "1 tablespoon ground garlic",
+        "1 tablespoon ground onion",
+        "1 teaspoon cayenne pepper",
+        "1 teaspoon ground black pepper",
+        "1/2 teaspoon salt",
+        "Skewers"
+      ],
+      "instructions": [
+        "In a bowl, combine the ground peanuts, paprika, ginger, garlic, onion, cayenne pepper, black pepper, and salt to make the suya spice.",
+        "Thread the sliced meat onto skewers.",
+        "Rub the suya spice mixture onto the meat, coating it evenly.",
+        "Preheat a grill or grill pan over medium heat.",
+        "Grill the skewered meat for about 10-15 minutes, turning occasionally, until cooked and slightly charred.",
+        "Serve the suya hot with sliced onions and tomatoes, and enjoy!"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Akara",
+      "description": "Crispy deep-fried bean cakes made from blended black-eyed peas.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/01/51/82/14/1000_F_151821450_rdmJktQjt8A9nONQtYzIjOogrKFoltXT.jpg",
+      "ingredients": [
+        "2 cups black-eyed peas",
+        "1 onion, chopped",
+        "1 red bell pepper, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon ground pepper",
+        "1 teaspoon salt",
+        "Vegetable oil for frying"
+      ],
+      "instructions": [
+        "Soak the black-eyed peas in water overnight. Drain and remove the skins.",
+        "In a blender or food processor, blend the black-eyed peas with a little water until smooth.",
+        "Transfer the blended mixture to a bowl and add the chopped onions, bell pepper, garlic, ground pepper, and salt. Mix well.",
+        "Heat vegetable oil in a deep frying pan or pot.",
+        "Drop spoonfuls of the bean mixture into the hot oil and fry until golden brown and crispy.",
+        "Remove the akara from the oil and drain on paper towels to remove excess oil.",
+        "Serve hot with a side of pap (ogi), bread, or yam."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Efo Riro",
+      "description": "A traditional Nigerian vegetable soup made with assorted meat, spinach, and other flavorful ingredients.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/04/88/08/23/1000_F_488082310_OF1oLy3A0tslt0WC5lsp5uMC9ezxbPOu.jpg",
+      "ingredients": [
+        "500g assorted meat (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meat with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot. Stir well.",
+        "Cover the pot and let it simmer for about 10 minutes.",
+        "Add the chopped spinach and pumpkin leaves. Stir and cook for an additional 5 minutes.",
+        "Adjust the seasoning if needed and serve hot with your choice of swallow (e.g., pounded yam, fufu, or eba)."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Chin Chin",
+      "description": "A crunchy Nigerian snack made from a dough of flour, sugar, and other flavorings, deep-fried until golden brown.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/02/23/95/80/1000_F_223958095_q0wiedI7tq6x08ZyXbcQXjzqT9o8k3ZR.jpg",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup granulated sugar",
+        "1/4 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground nutmeg",
+        "1/4 teaspoon ground cinnamon",
+        "2 tablespoons butter, melted",
+        "2 eggs",
+        "1/4 cup milk",
+        "Vegetable oil for frying"
+      ],
+      "instructions": [
+        "In a large bowl, mix together the flour, sugar, baking powder, salt, nutmeg, and cinnamon.",
+        "In a separate bowl, whisk together the melted butter, eggs, and milk.",
+        "Pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+        "Knead the dough on a lightly floured surface until smooth and elastic.",
+        "Divide the dough into small portions and roll them out into thin sheets.",
+        "Cut the dough into small squares or desired shapes.",
+        "Heat vegetable oil in a deep frying pan or pot.",
+        "Fry the chin chin in batches until golden brown and crispy.",
+        "Remove the chin chin from the oil and drain on paper towels.",
+        "Allow it to cool completely before serving."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Ogbono Soup",
+      "description": "A thick Nigerian soup made with ground ogbono seeds, assorted meat, and vegetables.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/01/99/78/06/1000_F_199780622_fzOj5SaVqKn5zsLEIBQsSn13W6AZpUEL.jpg",
+      "ingredients": [
+        "1 cup ground ogbono seeds",
+        "500g assorted meat (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meat with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot. Stir well.",
+        "Cover the pot and let it simmer for about 10 minutes.",
+        "In a small bowl, mix the ground ogbono seeds with a little water to form a smooth paste.",
+        "Gradually add the ogbono paste to the pot, stirring continuously to prevent lumps.",
+        "Cook for an additional 5 minutes to allow the ogbono to thicken the soup.",
+        "Add the chopped spinach and pumpkin leaves. Stir and cook for a few more minutes.",
+        "Adjust the seasoning if needed and serve hot with your choice of swallow (e.g., pounded yam, fufu, or eba)."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Coconut Rice",
+      "description": "A flavorful rice dish cooked in coconut milk and seasoned with various spices.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/01/92/93/30/1000_F_192933053_rMOFsRp3ScJpmLhWUDqYY0VjdFArqG6X.jpg",
+      "ingredients": [
+        "2 cups long-grain rice",
+        "1 can (400ml) coconut milk",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "1 carrot, diced",
+        "1 teaspoon curry powder",
+        "1/2 teaspoon turmeric",
+        "1/2 teaspoon thyme",
+        "2 tablespoons vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Rinse the rice under cold water until the water runs clear. Drain and set aside.",
+        "Heat the vegetable oil in a large pot over medium heat.",
+        "Add the chopped onions, garlic, and bell peppers. Sauté until softened.",
+        "Add the diced carrots and cook for a few minutes.",
+        "Stir in the curry powder, turmeric, and thyme.",
+        "Pour in the coconut milk and season with salt and pepper. Stir well.",
+        "Add the rice to the pot and stir to coat it with the coconut mixture.",
+        "Cover the pot and simmer for about 20-25 minutes or until the rice is cooked and the liquid is absorbed.",
+        "Fluff the rice with a fork and serve hot."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Moi Moi",
+      "description": "A steamed bean pudding made from blended black-eyed peas and various seasonings.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/03/37/03/99/1000_F_337039953_mAqJp4Ygi2rfdDEYNcRwFasmB6M0BFKo.jpg",
+      "ingredients": [
+        "2 cups black-eyed peas",
+        "1 onion, chopped",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "2 tablespoons vegetable oil",
+        "2 cups chicken or vegetable broth",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "Soak the black-eyed peas in water overnight. Drain and remove the skins.",
+        "In a blender or food processor, blend the black-eyed peas with a little water until smooth.",
+        "In a bowl, combine the blended peas with the chopped onions, bell peppers, tomatoes, garlic, crayfish, dried pepper, vegetable oil, broth, salt, and seasoning cubes.",
+        "Stir well to mix all the ingredients.",
+        "Prepare a steamer or a large pot with a steaming rack.",
+        "Pour the mixture into greased individual containers or wrap in banana leaves.",
+        "Place the containers on the steaming rack and cover the pot.",
+        "Steam for about 45-60 minutes or until the moi moi is firm and cooked through.",
+        "Remove from the steamer and let it cool before serving."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Nkwobi",
+      "description": "A spicy Nigerian appetizer made with cow foot, cooked in a flavorful sauce and served with onions and utazi leaves.",
+      "imageURL":  "https://3.bp.blogspot.com/-b91mamqg-JM/U-WQciwptiI/AAAAAAAAGAI/F1dYgsE4bA8/s1600/make+nkwobi.jpg",
+      "ingredients": [
+        "1 kg cow foot",
+        "2 onions, chopped",
+        "2 tablespoons powdered edible potash (food tenderizer)",
+        "2 tablespoons palm oil",
+        "3 tablespoons ground crayfish",
+        "2 tablespoons ground dried pepper",
+        "Utazi leaves (optional)",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "Wash the cow foot thoroughly and place it in a pot.",
+        "Add enough water to cover the cow foot and bring to a boil. Cook until tender.",
+        "In a small bowl, dissolve the powdered potash in a little water and set aside.",
+        "Heat the palm oil in a separate pot.",
+        "Add the chopped onions and sauté until translucent.",
+        "Add the crayfish, dried pepper, dissolved potash, and some broth from the cooked cow foot. Stir well.",
+        "Add salt and seasoning cubes to taste.",
+        "Drain the cooked cow foot and add it to the pot with the sauce. Stir to coat the cow foot with the sauce.",
+        "Simmer for about 10 minutes to allow the flavors to meld together.",
+        "Garnish with chopped utazi leaves (optional) and serve hot with sliced onions."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Plantain Porridge",
+      "description": "A hearty and delicious Nigerian dish made with ripe plantains, vegetables, and assorted meats.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/03/87/65/05/1000_F_387650599_WU1qtimrNrJuF8IOwjdsyiFAvgIphs33.jpg",
+      "ingredients": [
+        "2 ripe plantains",
+        "500g assorted meat (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meat with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot. Stir well.",
+        "Peel the ripe plantains and cut them into small chunks.",
+        "Add the plantains to the pot and stir gently to incorporate them into the sauce.",
+        "Cover the pot and let it simmer for about 15-20 minutes or until the plantains are soft and the flavors are well combined.",
+        "Add the chopped spinach and pumpkin leaves. Stir and cook for a few more minutes.",
+        "Adjust the seasoning if needed and serve hot."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Pepper Soup",
+      "description": "A spicy Nigerian soup made with assorted meats or fish, flavored with aromatic spices and herbs.",
+      "imageURL":  "https://africanvibes.storage.googleapis.com/wp-content/uploads/2022/08/30113807/Assorted-Meat-Pepper-SoupParty-Style-Pepper-Soup-By-Sisi-Jemimahs-Recipes-600x525.png",
+      "ingredients": [
+        "500g assorted meats (beef, chicken, or goat meat)",
+        "2 tablespoons ground pepper soup spice mix",
+        "2 tablespoons ground crayfish",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "1 teaspoon ground uziza seeds (optional)",
+        "1 teaspoon ground ehuru seeds (calabash nutmeg)",
+        "1 teaspoon ground dried pepper",
+        "1 tablespoon chopped fresh utazi leaves (optional)",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meats with onions, garlic, salt, and seasoning cubes until tender.",
+        "In a small bowl, combine the ground pepper soup spice mix, ground crayfish, uziza seeds, ehuru seeds, dried pepper, and some broth from the cooked meats. Stir well.",
+        "Add the spice mixture to the pot with the cooked meats. Stir well to combine.",
+        "Simmer for about 10-15 minutes to allow the flavors to meld together.",
+        "Adjust the seasoning if needed.",
+        "Garnish with chopped utazi leaves (optional) and serve hot as a soup or with boiled yam or plantains."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Jollof Rice",
+      "description": "A popular Nigerian one-pot rice dish cooked in a flavorful tomato-based sauce.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/04/87/14/10/1000_F_487141097_RTZJGb1OBBA2CJhupCS6sMTWp8AMsGGc.jpg",
+      "ingredients": [
+        "2 cups long-grain rice",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "2 tomatoes, chopped",
+        "1 can (400g) tomato puree",
+        "1 teaspoon curry powder",
+        "1 teaspoon thyme",
+        "1 teaspoon paprika",
+        "1/2 teaspoon cayenne pepper",
+        "2 cups chicken or vegetable broth",
+        "3 tablespoons vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Rinse the rice under cold water until the water runs clear. Drain and set aside.",
+        "Heat the vegetable oil in a large pot over medium heat.",
+        "Add the chopped onions, garlic, and bell peppers. Sauté until softened.",
+        "Add the chopped tomatoes and cook until they start to break down.",
+        "Stir in the tomato puree, curry powder, thyme, paprika, and cayenne pepper. Cook for a few minutes to allow the flavors to meld together.",
+        "Pour in the chicken or vegetable broth and season with salt and pepper. Stir well.",
+        "Add the rice to the pot and stir to coat it with the tomato mixture.",
+        "Cover the pot and simmer for about 20-25 minutes or until the rice is cooked and the liquid is absorbed.",
+        "Fluff the rice with a fork and serve hot."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Egusi Soup",
+      "description": "A rich and hearty Nigerian soup made with ground melon seeds, assorted meats, and vegetables.",
+      "imageURL":  "https://i0.wp.com/soupembassy.com.ng/order/wp-content/uploads/2021/05/egusi-soup-online.jpg?fit=572%2C533&ssl=1",
+      "ingredients": [
+        "1 cup ground egusi (melon) seeds",
+        "500g assorted meats (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meats with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot. Stir well.",
+        "In a small bowl, mix the ground egusi seeds with a little water to form a smooth paste.",
+        "Gradually add the egusi paste to the pot, stirring continuously to prevent lumps.",
+        "Cook for an additional 5 minutes to allow the egusi to thicken the soup.",
+        "Add the chopped spinach and pumpkin leaves. Stir and cook for a few more minutes.",
+        "Adjust the seasoning if needed and serve hot with your choice of swallow (e.g., pounded yam, fufu, or eba)."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Fisherman Soup",
+      "description": "A delicious Nigerian soup made with an assortment of fresh fish, seafood, and flavorful spices.",
+      "imageURL":  "https://1.bp.blogspot.com/-gu0iqcgMFUg/YVgpfExLI9I/AAAAAAAAZRo/agtxtcnBbhUFf_6yxdbmFGDeICIVm6VVQCLcBGAsYHQ/s1024/Fisherman%2Bsoup.jpeg",
+      "ingredients": [
+        "500g assorted fresh fish (such as catfish, tilapia, or mackerel)",
+        "200g assorted seafood (shrimp, crayfish, prawns)",
+        "2 tablespoons ground pepper soup spice mix",
+        "2 tablespoons ground crayfish",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "1 red bell pepper, chopped",
+        "1 green bell pepper, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups fish or vegetable broth",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "Clean and cut the fresh fish into steaks or fillets.",
+        "In a pot, cook the fish and assorted seafood with onions, garlic, salt, and seasoning cubes until partially cooked. Remove from the pot and set aside.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked fish and seafood back to the pot.",
+        "Add the ground pepper soup spice mix, ground crayfish, dried pepper, and broth. Stir well.",
+        "Cover the pot and simmer for about 10-15 minutes to allow the flavors to meld together and the fish and seafood to fully cook.",
+        "Adjust the seasoning if needed and serve hot."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Suya",
+      "description": "A popular Nigerian street food made with grilled skewered meat coated in a spicy peanut-based marinade.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/02/21/24/13/1000_F_221241321_PIn6TJUwdqRQjzYfkSPuusn5BdxLHzIX.jpg",
+      "ingredients": [
+        "500g beef or chicken, thinly sliced",
+        "1/4 cup peanut powder",
+        "2 tablespoons ground paprika",
+        "2 tablespoons ground ginger",
+        "2 tablespoons ground garlic",
+        "2 tablespoons ground cayenne pepper",
+        "2 tablespoons ground onion",
+        "1 teaspoon salt",
+        "1 teaspoon ground bouillon seasoning",
+        "Skewers for grilling"
+      ],
+      "instructions": [
+        "In a bowl, combine the peanut powder, paprika, ginger, garlic, cayenne pepper, onion, salt, and bouillon seasoning.",
+        "Add the thinly sliced beef or chicken to the bowl and mix well to coat the meat with the spice mixture. Marinate for at least 1 hour or overnight for the flavors to develop.",
+        "Thread the marinated meat onto skewers, ensuring each piece is secure and evenly spaced.",
+        "Preheat a grill or grill pan over medium-high heat.",
+        "Grill the skewered meat for about 8-10 minutes, turning occasionally, until cooked to your desired level of doneness and nicely charred.",
+        "Remove from the grill and let it rest for a few minutes before serving hot."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Akara",
+      "description": "A popular Nigerian street food made from deep-fried bean cakes, seasoned with onions, peppers, and spices.",
+      "imageURL": "https://as1.ftcdn.net/v2/jpg/01/51/82/14/1000_F_151821450_rdmJktQjt8A9nONQtYzIjOogrKFoltXT.jpg",
+      "ingredients": [
+        "2 cups black-eyed peas",
+        "1 onion, chopped",
+        "2 red bell peppers, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste",
+        "Vegetable oil for frying"
+      ],
+      "instructions": [
+        "Soak the black-eyed peas in water overnight. Drain and remove the skins.",
+        "In a blender or food processor, blend the black-eyed peas with a little water until smooth.",
+        "In a bowl, combine the blended peas with the chopped onions, bell peppers, garlic, crayfish, dried pepper, salt, and seasoning cubes. Stir well to mix all the ingredients.",
+        "Heat vegetable oil in a deep pot or fryer.",
+        "Drop spoonfuls of the bean mixture into the hot oil, frying in batches.",
+        "Fry until golden brown and crispy, turning the akara balls to ensure even cooking.",
+        "Remove the fried akara with a slotted spoon and drain on a paper towel to remove excess oil.",
+        "Serve hot as a snack or breakfast, paired with bread or pap (cornmeal porridge)."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Efo Riro",
+      "description": "A rich and flavorful Nigerian vegetable soup made with assorted meats, spinach, and other vegetables.",
+      "imageURL":  "https://as2.ftcdn.net/v2/jpg/04/88/08/23/1000_F_488082310_OF1oLy3A0tslt0WC5lsp5uMC9ezxbPOu.jpg",
+      "ingredients": [
+        "500g assorted meats (beef, chicken, or goat meat)",
+        "2 cups chopped spinach",
+        "1 cup chopped pumpkin leaves",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 red bell peppers, chopped",
+        "2 tomatoes, chopped",
+        "2 tablespoons palm oil",
+        "2 cups chicken or vegetable broth",
+        "1 teaspoon ground crayfish",
+        "1 teaspoon ground dried pepper",
+        "Salt and seasoning cubes to taste"
+      ],
+      "instructions": [
+        "In a pot, cook the assorted meats with onions, garlic, salt, and seasoning cubes until tender.",
+        "Heat the palm oil in a separate pot and sauté the chopped onions, garlic, red bell peppers, and tomatoes.",
+        "Add the cooked meat, broth, crayfish, and dried pepper to the pot. Stir well.",
+        "Add the chopped spinach and pumpkin leaves. Stir and cook for a few more minutes until the vegetables wilt.",
+        "Adjust the seasoning if needed and serve hot with your choice of swallow (e.g., pounded yam, fufu, or eba)."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Chin Chin",
+      "description": "A popular Nigerian snack made from a dough mixture that is deep-fried until crispy and golden brown.",
+      "imageURL":  "https://as1.ftcdn.net/v2/jpg/02/23/95/80/1000_F_223958095_q0wiedI7tq6x08ZyXbcQXjzqT9o8k3ZR.jpg",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup granulated sugar",
+        "2 tablespoons powdered milk",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon ground nutmeg",
+        "2 eggs",
+        "4 tablespoons unsalted butter, melted",
+        "Vegetable oil for frying"
+      ],
+      "instructions": [
+        "In a large bowl, combine the flour, sugar, powdered milk, baking powder, salt, and ground nutmeg.",
+        "In a separate bowl, beat the eggs and add the melted butter. Mix well.",
+        "Gradually add the egg mixture to the dry ingredients, stirring to form a stiff dough. Knead the dough until smooth and well combined.",
+        "Divide the dough into small portions and roll each portion into a thin sheet.",
+        "Cut the rolled dough into small squares or desired shapes.",
+        "Heat vegetable oil in a deep pot or fryer.",
+        "Fry the chin chin in batches until golden brown and crispy.",
+        "Remove with a slotted spoon and drain on a paper towel to remove excess oil.",
+        "Allow the chin chin to cool completely before serving as a snack."
+      ]
+    }
+  ]
+  
